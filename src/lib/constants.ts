@@ -1,3 +1,3 @@
-export const PROJECT_ID = 'farcaster-frames-template';
-export const PROJECT_TITLE = "Farcaster Frames Template";
-export const PROJECT_DESCRIPTION = "A Farcaster Frames v2 Template by hellno";
+export const PROJECT_ID = 'Citizen Alert';
+export const PROJECT_TITLE = "Citizen Alert";
+export const PROJECT_DESCRIPTION = "Community safety platform delivering real-time neighborhood alerts and emergency notifications through Farcaster frames";
